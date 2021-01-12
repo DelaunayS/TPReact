@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TPReact/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/TPReact/static/js/main.67fa226d.chunk.js",
-    "main.js.map": "/TPReact/static/js/main.67fa226d.chunk.js.map",
+    "main.js": "/TPReact/static/js/main.4ec3236e.chunk.js",
+    "main.js.map": "/TPReact/static/js/main.4ec3236e.chunk.js.map",
     "runtime-main.js": "/TPReact/static/js/runtime-main.3c7001c6.js",
     "runtime-main.js.map": "/TPReact/static/js/runtime-main.3c7001c6.js.map",
     "static/css/2.d757525a.chunk.css": "/TPReact/static/css/2.d757525a.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.d757525a.chunk.css",
     "static/js/2.bd5737db.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.67fa226d.chunk.js"
+    "static/js/main.4ec3236e.chunk.js"
   ]
 }
