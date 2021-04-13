@@ -1,0 +1,21 @@
+/* place le mot mystère en ligne et centrée dans la div*/
+.word {
+    display : flex;
+    justify-content: center
+}
+
+/*affiche les lettres du mot mystère à l'écran*/
+#afficheLettre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5vh;
+    height: 40px;
+    font-size: 0;       /* efface la lettre à l'écran*/
+    border-bottom : solid 1px gray;
+}
+
+/*permet l'affichage de la lettre trouvée*/
+.finded #afficheLettre {
+    font-size: 4vh;
+}
